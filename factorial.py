@@ -8,5 +8,5 @@ def factorial_iterative(n):
     return result
 
 if __name__ == "__main__":
-    num = 5  # Change this value to test with other numbers
+    num = 5
     print(f"Factorial of {num} (iterative): {factorial_iterative(num)}")
