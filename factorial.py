@@ -1,5 +1,4 @@
 
-
 def factorial_iterative(n):
     if n < 0:
         return "Undefined for negative numbers"
